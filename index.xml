@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>Encargo 2: La luz animada</title>
+      <title>Encargo 2: Volumen de luz</title>
       <link>https://ClementeSchaerer.github.io/docs/encargo2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -35,11 +35,20 @@
     </item>
     
     <item>
-      <title>Encargo 3: El recorrido de la luz</title>
+      <title>Encargo 3: Animaciones digitales</title>
       <link>https://ClementeSchaerer.github.io/docs/encargo3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://ClementeSchaerer.github.io/docs/encargo3/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 4: Compilación y Relato del plano al Volumen de Luz</title>
+      <link>https://ClementeSchaerer.github.io/docs/encargo4/index-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://ClementeSchaerer.github.io/docs/encargo4/index-1/</guid>
       <description>Animación de volumenes.</description>
     </item>
     
