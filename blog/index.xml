@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuestros proyectos on Electromovilidad Venecia | Taller Integrado 2021</title>
+    <link>http://examplesite.com/blog/</link>
+    <description>Recent content in Nuestros proyectos on Electromovilidad Venecia | Taller Integrado 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="http://examplesite.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 - B R U C O</title>
+      <link>http://examplesite.com/blog/post-4/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>http://examplesite.com/blog/post-4/</guid>
+      <description>Tren de movilidad terrestre en base a levitación magnetica.
+“Bruco” significa oruga en italiano. Este método de transporte consiste en un diseño futurista de un tren que busca resolver la movilidad terrestre al permitir una conexión entre la región Véneta y la ciudad de Venecia.</description>
+    </item>
+    
+    <item>
+      <title>2 - C O N S I G L I O</title>
+      <link>http://examplesite.com/blog/post-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>http://examplesite.com/blog/post-1/</guid>
+      <description>Diseño de eléctromovilidad acuática para canal externo.
+La palabra “consiglio” significa “junta” en italiano. Consiglio es el nuevo método de transporte para trasladar a las personas por los alrededores de Venecia, por medio de los canales externos de la ciudad.</description>
+    </item>
+    
+    <item>
+      <title>3 - S P E D I Z I O N E</title>
+      <link>http://examplesite.com/blog/post-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>http://examplesite.com/blog/post-3/</guid>
+      <description>Spedizione proviene del italiano, que significa “envío”. Este consiste en un dron cuya función es realizar entregas a domicilio de comida, el famoso “delivery”.</description>
+    </item>
+    
+    <item>
+      <title>4 - Á N A D E</title>
+      <link>http://examplesite.com/blog/post-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>http://examplesite.com/blog/post-2/</guid>
+      <description>El nombre “Ánade” viene de “Ánade Real”, el cual corresponde al nombre de un pato que forma parte de la fauna de Venecia.</description>
+    </item>
+    
+    <item>
+      <title>Antecedentes</title>
+      <link>http://examplesite.com/blog/antecedentes/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>http://examplesite.com/blog/antecedentes/</guid>
+      <description>Hoy en día, existen 5 métodos de transporte en la ciudad de Venecia. Estos corresponden a:
+Vaporetto: Se caracterizan por ser embarcaciones de un solo piso, abiertos a proa y con el puente situado en el centro, en una posición ligeramente arqueada.</description>
+    </item>
+    
+  </channel>
+</rss>
