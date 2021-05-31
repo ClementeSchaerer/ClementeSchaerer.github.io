@@ -13,7 +13,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://ClementeSchaerer.github.io/docs/encargo0/</guid>
-      <description>Contenido Encargo 0 con Hugo.</description>
+      <description>Biografía Mi nombre es Clemente Schaerer, soy estudiante de diseño en la Universidad Adolfo Ibañez. Actualmente me encuentro realizando el Magister de Innovación en Diseño, también conocido como el MID.</description>
     </item>
     
     <item>
@@ -22,7 +22,10 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://ClementeSchaerer.github.io/docs/encargo1/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+      <description>Plano 1 Plano 1: Cortes    Sombra11
+      Sombra12
+      Sombra13
+      Sombra14</description>
     </item>
     
     <item>
@@ -31,7 +34,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://ClementeSchaerer.github.io/docs/encargo2/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+      <description>Animación de la luz La luz es un elemento maravilloso, es la base para la creación y visualización humana. En este trabajo se intenta entender la luz como un elemento que compone y da vida a una escena.</description>
     </item>
     
     <item>
@@ -40,7 +43,8 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://ClementeSchaerer.github.io/docs/encargo3/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+      <description>Volumen de luz. En este último encargo se busca incorporar el plano de luz a un volumen, esto se logra mediante extrusiones y sustracciones.
+   Finalmente se vuelve a lo sutil generando efectos luminicos entre 2 superficies que proyectan sombras.</description>
     </item>
     
     <item>
@@ -49,16 +53,54 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://ClementeSchaerer.github.io/docs/encargo4/index-1/</guid>
-      <description>Animación de volumenes.</description>
+      <description>Narrativa de la luz. La luz es un elemento que enriquece las escenas, producto de esta surge la imagenes, y a su vez las sombras, en este encargo se busca mezclar el mundo analogo con el digital generando un nuevo elemento.</description>
     </item>
     
     <item>
-      <title>Encargo 5: Ejercicio Fusion 360 - Piping Form</title>
-      <link>https://ClementeSchaerer.github.io/docs/encargo5/index-1/</link>
+      <title>Ejercicio Fusion 360 - Mano</title>
+      <link>https://ClementeSchaerer.github.io/docs/mano/index-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://ClementeSchaerer.github.io/docs/encargo5/index-1/</guid>
-      <description>Animación de volumenes.</description>
+      <guid>https://ClementeSchaerer.github.io/docs/mano/index-1/</guid>
+      <description>Utilizando el programa Fusion 360, llevamos a cabo un tutorial utilizando un modelo de mano ya existente. En base a este modelo creamos un yeso para la muñeca. Para esto utilizamos los siguientes comandos: &amp;ldquo;offset plane&amp;rdquo;, &amp;ldquo;sketch&amp;rdquo;, &amp;ldquo;loft&amp;rdquo;, &amp;ldquo;thicken&amp;rdquo; y, por último, el comando &amp;ldquo;fillet&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Ejercicio Fusion 360 - Patrones</title>
+      <link>https://ClementeSchaerer.github.io/docs/patrones/index-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://ClementeSchaerer.github.io/docs/patrones/index-1/</guid>
+      <description>Utilizando el programa Fusion 360, llevamos a cabo un tutorial para crear un invernadero vertical a partir de un dibujo a mano alzada.
+Utilizamos los comandos: “sketch”, “extrude”, “shell”, “coil” y, finalmente, el comando “plane along path”.</description>
+    </item>
+    
+    <item>
+      <title>Ejercicio Fusion 360 - Sketch</title>
+      <link>https://ClementeSchaerer.github.io/docs/sketch/index-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://ClementeSchaerer.github.io/docs/sketch/index-1/</guid>
+      <description>Utilizando el programa Fusion 360, llevamos a cabo un tutorial para crear un invernadero a partir de un dibujo a mano alzada.
+Utilizamos los comandos: &amp;ldquo;sketch&amp;rdquo;, &amp;ldquo;pipe&amp;rdquo;, &amp;ldquo;mirror&amp;rdquo; y, por último, el comando &amp;ldquo;pattern&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Ejercicio Fusion 360 - Piping Form</title>
+      <link>https://ClementeSchaerer.github.io/docs/piping/index-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://ClementeSchaerer.github.io/docs/piping/index-1/</guid>
+      <description>Utilizando el programa Fusion 360, llevamos a cabo un tutorial utilizando la herramienta de &amp;ldquo;piping&amp;rdquo;. De esta manera creamos estructuras de piping, y gracias al programa podemos ver si la estructura resiste su porpio peso, siendo identificados los puntos de apoyo de esta.</description>
+    </item>
+    
+    <item>
+      <title>Examen Taller 2021: MOSSA</title>
+      <link>https://ClementeSchaerer.github.io/docs/examen/index-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://ClementeSchaerer.github.io/docs/examen/index-1/</guid>
+      <description>Venecia, ubicada en el noreste de Italia, es un lugar visitado regularmente por turistas por su particularidad geográfica, además de su historia y patrimonio monumental. A pesar de esto Venecia actualmente cuenta con una serie de problemas, como, por ejemplo, las inundaciones que ocurren en periodos de otoño e invierno, este fenómeno se llama Acqua alta, en donde la marea sube bajo ciertas condiciones meteorológicas; por otro lado, está el tema de la movilización, ya que no circulan autos, motos o bicicletas por las estrechas y pocas veredas que existen actualmente.</description>
     </item>
     
     <item>
@@ -67,7 +109,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://ClementeSchaerer.github.io/docs/software-creativo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+      <description>Tutorial Runway: Herramienta &amp;ldquo;Green Screen&amp;rdquo; En este tutorial se muestra el programa RunwayML, versión beta, el cual utiliza inteligencia artificial para su funcionamiento. Esto quiere decir que el programa comienza a aprender y absorber la información de todos los proyectos creados en este para luego poder perfeccionar sus herramientas para los futuros usuarios y proyectos.</description>
     </item>
     
     <item>
@@ -77,15 +119,6 @@
       
       <guid>https://ClementeSchaerer.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Examen Taller 2021: MOSSA</title>
-      <link>https://ClementeSchaerer.github.io/docs/examen/index-1/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://ClementeSchaerer.github.io/docs/examen/index-1/</guid>
-      <description>Animación de volumenes.</description>
     </item>
     
     <item>
